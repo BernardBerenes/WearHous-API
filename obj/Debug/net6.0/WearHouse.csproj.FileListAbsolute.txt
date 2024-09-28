@@ -1,0 +1,158 @@
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\WearHouse.exe
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\WearHouse.deps.json
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\WearHouse.runtimeconfig.json
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\WearHouse.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\WearHouse.pdb
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\WearHouse.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\WearHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\WearHouse.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\WearHouse.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\WearHouse.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\WearHouse.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\WearHouse.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.WearHouse.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.build.WearHouse.props
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WearHouse.props
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WearHouse.props
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\scopedcss\bundle\WearHouse.styles.css
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\WearHouse.csproj.CopyComplete
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\WearHouse.dll
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\refint\WearHouse.dll
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\WearHouse.pdb
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\WearHouse.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\WearHouse\obj\Debug\net6.0\ref\WearHouse.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\WearHouse.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\refint\WearHouse.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\WearHouse.pdb
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\appsettings.json
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\WearHouse.exe
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\WearHouse.deps.json
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\WearHouse.runtimeconfig.json
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\WearHouse.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\WearHouse.pdb
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\WearHouse.csproj.AssemblyReference.cache
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\WearHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\WearHouse.AssemblyInfoInputs.cache
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\WearHouse.AssemblyInfo.cs
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\WearHouse.csproj.CoreCompileInputs.cache
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\WearHouse.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\WearHouse.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.WearHouse.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.build.WearHouse.props
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WearHouse.props
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WearHouse.props
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\scopedcss\bundle\WearHouse.styles.css
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\WearHouse.csproj.CopyComplete
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\WearHouse.genruntimeconfig.cache
+C:\Users\berna\OneDrive - Bina Nusantara\Documents\Coding\IT Div\IT Div Semester 3\MiniProjectAPI\WearHouse\obj\Debug\net6.0\ref\WearHouse.dll
